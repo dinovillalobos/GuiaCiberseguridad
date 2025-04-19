@@ -63,5 +63,6 @@ Pentest4U/
 ## 🔗 Autor
 Ricardo Domínguez Villalobos
 Estudiante de Ingeniería en Computación | Apasionado por la seguridad ofensiva
-💼 GitHub: github.com/dinovillalobos
-📧 Contacto: villalobosdoricardo@gmail.com 
+
+- 💼 GitHub: github.com/dinovillalobos
+- 📧 Contacto: villalobosdoricardo@gmail.com 
