@@ -26,8 +26,8 @@ ciberseguridad-basica/
 ├── README.md
 ├── 01-Fundamentos/
 │   └── fundamentos-ciberseguridad.md
-|   ├── Flashcard.md
-|   └── Quiz.md
+│   ├── Flashcard.md
+│   └── Quiz.md
 ├── 02-Modelo_OSI/
 │   ├── fundamentos-OSi.md
 │   └── OSI_ataques.md
@@ -42,7 +42,4 @@ ciberseguridad-basica/
 ├── 07-Pentest-Basico/
 │   
 ├── 08-Proyecto-Final/
-│   
-└── Semana1/
-    ├── Flashcard.md
-    └── Quiz.md
+  
