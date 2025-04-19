@@ -1,0 +1,33 @@
+# Node / Python environments (por si en el futuro usas scripts)
+node_modules/
+.env
+*.pyc
+__pycache__/
+venv/
+.env.local
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de VSCode
+.vscode/
+*.code-workspace
+
+# Archivos de laboratorio (si montas contenedores o VM)
+*.log
+*.pcap
+*.dump
+*.zip
+*.tar
+*.gz
+*.bak
+
+# Archivos de exportación/temporales
+*.tmp
+*.swp
+
+# Labs virtuales / herramientas
+output/
+captures/
+results/
