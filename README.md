@@ -60,7 +60,7 @@ Pentest4U/
 > Dominar los conceptos esenciales de ciberseguridad ofensiva, practicar de forma constante y desarrollar un portafolio real que sirva como evidencia para aplicar a empleos, colaborar en proyectos o iniciar tu propio camino como profesional del pentesting.
 ---
 
-##🔗 Autor
+## 🔗 Autor
 Ricardo Domínguez Villalobos
 Estudiante de Ingeniería en Computación | Apasionado por la seguridad ofensiva
 💼 GitHub: github.com/dinovillalobos
